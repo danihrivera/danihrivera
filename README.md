@@ -1,8 +1,8 @@
 ### Hi there, I'm [Daniel](https://leonnoel.com) 👋🏽
 
-By day, I write code for careers as software engineers at [Resilient Coders](https://resilientcoders.org)
+By day, I write code for my career as software engineers in my [Portfolio](https://resilientcoders.org)
 
-By night, I like write some ideas of technology in my blog [General Assembly](https://generalassemb.ly/instructors/leon-noel/2051)
+By night, I like write some ideas of technology in my [Blog](https://generalassemb.ly/instructors/leon-noel/2051)
 
 By every other hour, you can find me on [Discord](https://leonnoel.com/discord), [Twitch](https://leonnoel.com/twitch), and [Youtube](https://leonnoel.com/youtube) helping folks learn to code and share some proyects with my friends!
 
