@@ -1,6 +1,6 @@
 ### Hi there, I'm [Daniel](https://leonnoel.com) 👋🏽
 
-By day, I write code for my career as software engineers in my [Portfolio](https://resilientcoders.org)
+By day, I write code for my career as software engineers, you can find my proyects in my [Web](https://resilientcoders.org)
 
 By night, I like write some ideas of technology in my [Blog](https://generalassemb.ly/instructors/leon-noel/2051)
 
