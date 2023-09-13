@@ -1,12 +1,12 @@
 ### Hi there, I'm [Daniel](https://leonnoel.com) 👋🏽
 
-By day, I write code for my career as software engineers, you can find my proyects in my [Web](https://resilientcoders.org)
+By day, I write code for my career as software engineers, you can find my proyects in my [Web]()
 
-By night, I like write some ideas of technology in my [Blog](https://generalassemb.ly/instructors/leon-noel/2051)
+By night, I like write some ideas of technology in my [Blog]()
 
-By every other hour, you can find me on [Discord](https://leonnoel.com/discord), [Twitch](https://leonnoel.com/twitch), and [Youtube](https://leonnoel.com/youtube) helping folks learn to code and share some proyects with my friends!
+By every other hour, you can find me on [Discord](), [Twitch](), and [Youtube]() helping folks learn to code and share some proyects with my friends!
 
-🌱 I’m currently learning here.
+I’m currently learning here.
 
 <!--
 **danihrivera/danihrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
